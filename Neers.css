@@ -1,0 +1,66 @@
+.Social-media {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    background-color: rgb(134, 251, 157);
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cp-line {
+    background-color: black;
+    font: bold;
+    display: flex;
+    padding: 12px;
+    color: aliceblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.adress {
+    margin: 0%;
+    padding: 0px;
+    position: relative;
+    top: 145px;
+    left: 45px;
+}
+
+.location {
+    margin: 0px;
+    padding: 0px;
+    display: inline block;
+    position: relative;
+    left: 1445px;
+
+
+}
+
+.logo.nav {
+    padding: 0px;
+    margin: 0px;
+    border: 5px solid rgb(78, 11, 55);
+    border-radius: 15px;
+    display: inline-block;
+    text-align: center;
+}
+
+.logonav {
+    border: 2px solid red;
+}
+
+.namebar {
+    border: 2px solid red;
+}
+.menubar{
+    margin: 0px;
+    padding: 0%;
+    list-style: none;
+    display: inline-block;
+    border: 2px solid red;
+    border-radius: 25px;
+    background-color: black;
+    color: rgb(247, 236, 236); 
+    
+}
